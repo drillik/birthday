@@ -1,0 +1,50 @@
+body{
+    background-color: #EFB495;
+}
+.container{
+    display: flex;
+    gap: 7cm;
+    position: relative;
+    opacity: 0.5;
+ 
+    
+}
+
+.wish{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    color: #74442C;
+    background-color: #EF9595;
+    border-radius: 50%;
+    opacity: 1;
+}
+.date{
+    font-family: 'Prompt', sans-serif;
+    font-size: 33px;
+    color: #74442C;
+    background-color: #EF9595;
+    border-radius: 50%;
+}
+.text-bg{
+    position: relative;
+    height: 3.5cm;
+    width: 13cm;
+    left: 8cm;
+    border-radius: 50%;
+   
+   
+    background-color: #EF9595;
+    
+    opacity: 0.5;
+}
+.text {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    font-family: 'Prompt', sans-serif;
+    font-size: 25px;
+    color: #74442C;
+    text-align: center;
+    left: 9.5cm;
+    bottom: 1.5cm;
+}
